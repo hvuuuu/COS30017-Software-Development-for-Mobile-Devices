@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hoạt động chính</string>
+    <string name="roll_button">Đổ</string>
+    <string name="add_button">Cộng</string>
+    <string name="subtract_button">Trừ</string>
+    <string name="score">0</string>
+    <string name="reset_button">Chơi lại</string>
+</resources>

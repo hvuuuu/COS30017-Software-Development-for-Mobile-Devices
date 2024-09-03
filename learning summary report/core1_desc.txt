@@ -1,0 +1,11 @@
+Core 1: Taking Chances
+Aim and Context
+This app is a simple one-activity game that makes use of layouts and localisation.
+
+On completion of this task, you will demonstrate that you are able to work with a single activity app, handle activity states, use Logs, create layouts, implement listeners effectively and enable localisation.
+The app contains four buttons, a dice roll label and a score, and updates the buttons, roll and score when the buttons are pressed using listeners.
+The app contains two layouts, at least one Constraint and possibly a Linear layout.
+The app saves score on rotation.
+The app is usable in a second language.
+Command of IDE to build and run a simple app is evident.
+Log messages are used for testing and debugging purposes.

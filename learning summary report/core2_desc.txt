@@ -1,0 +1,11 @@
+Core 2: Sharing is Caring
+Aim and Context
+This app is a two-activity app that requires the use of intents.
+
+On completion of this task, you will demonstrate that you are able to create a multi-activity app, share data between activities using intents, use images and resources, and work with more complicated UI widgets. You will also demonstrate that you are able to work with sharing data between activities in an advanced manner and take input from the user. In particular, this task requires some attention to code decomposition -- sloppy or lazy coding will not be tolerated in this task and you will be expected to have refactored your code prior to submission.
+The app contains 3-4 items with images of reasonable size.
+A model for the item data is used, which implements the Parcelable protocol, and is populated.
+On an item click, details about that image are shown in a new activity.
+Reservation data for a particular item should be edited in the second activity and shown in the first activity.
+UI tests are included.
+Code is commented, indented correctly, uses understandable variable names, shows some evidence of decomposition and design to avoid repeated code, makes use of Android practices, e.g., string resources instead of hard-coded strings, and makes use of Kotlin features, e.g., scope functions.

@@ -1,0 +1,9 @@
+Core 3: The Clubhouse
+Aim and Context
+This app reads data from a file and shows it in a list. The list can be filtered by the user.
+
+On completion of this task, you will demonstrate that you are able to work with read-only files, lists, and menus. Note that this task requires you to respond to some specific questions in your report.
+The app contains a RecyclerView.
+The app reads data from a file and shows it in a list, with appropriate text styling and an icon.
+The list can be filtered, and is sorted on loading.
+The list contains some differential colouring or image selection on rows.

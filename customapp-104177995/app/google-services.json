@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "857745196280",
+    "project_id": "fitness-tracker-app-1808",
+    "storage_bucket": "fitness-tracker-app-1808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857745196280:android:77836bed55c947f0a4a70d",
+        "android_client_info": {
+          "package_name": "au.edu.swin.sdmd.myapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFlZ4mBrQwKE91GgISAsbZPzXv6vSij90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,4 @@
+Extension: user experience
+When thinking about UX, patterns are a good place to start. These are components or flows that can be applied to common design problems, and not only stop designers from "reinventing the wheel" but also assist users in having a good experience with your app.
+
+Earlier in the unit, we looked at existing apps and will continue that for this task. You are required to identify 3 UI patterns that are found across 2 or more mobile apps (these apps may be different to the previous apps you looked at). (Annotated) screenshots highlighting these patterns and a short explanation of why this example is a particular pattern (a paragraph or two is sufficient for each), along with references to the pattern, are required.

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Fitness Tracker App</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title">Title</string>
+    <string name="date">Date</string>
+    <string name="duration">Duration (minutes)</string>
+    <string name="height">Height (meters)</string>
+    <string name="weight">Weight (kilograms)</string>
+    <string name="age">Age</string>
+    <string name="email">Email</string>
+    <string name="name">Name</string>
+    <string name="occupation">Occupation</string>
+    <string name="image">Select an image from gallery</string>
+    <string name="home">Home</string>
+    <string name="profile">User Profile</string>
+    <string name="workout_plan">Workout Plans</string>
+    <string name="beginner">Beginner</string>
+    <string name="intermediate">Intermediate</string>
+    <string name="advanced">Advanced</string>
+    <string name="duration1">15 minutes</string>
+    <string name="duration2">25 minutes</string>
+    <string name="duration3">40 minutes</string>
+    <string name="level">Level</string>
+    <string name="time">Time</string>
+    <string name="focusArea">Focus Area</string>
+    <string name="fullBody">Full Body</string>
+    <string name="exercises">Exercises</string>
+    <string name="no_exe">(5)</string>
+    <string name="set">· Set</string>
+</resources>

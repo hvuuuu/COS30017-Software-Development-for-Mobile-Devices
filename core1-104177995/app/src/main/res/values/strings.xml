@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MainActivity</string>
+    <string name="roll_button">Roll</string>
+    <string name="add_button">Add</string>
+    <string name="subtract_button">Subtract</string>
+    <string name="score">0</string>
+    <string name="reset_button">Reset</string>
+</resources>

@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Core 2</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="borrow">Borrow</string>
+    <string name="next">Next</string>
+    <string name="save">Save</string>
+    <string name="days">Days</string>
+    <string name="su4">Superfly 4</string>
+    <string name="su5">Superfly 5</string>
+    <string name="su6">Superfly 6</string>
+</resources>

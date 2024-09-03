@@ -1,0 +1,22 @@
+Extension: performance
+You have been given an app to play with using Profiler. You will need to change some code and variables and take note of the performance.
+
+The app shows a list (a RecyclerView) of strings with an icon. It also allows adding new items to the list.
+Firstly ensure the app runs on your system. Run it and see how it works. Note what happens when the FAB is clicked.
+
+Explore the code to ensure you are familiar with the code that needs to be adapted. In most cases this will be simply uncommenting and commenting code. There is no expectation that you will fix any errors. Add the code for each icon scenario as follows:
+
+a constant icon: add the following to bind() in your adapter
+imageView.setImageBitmap(BitmapFactory.decodeResource(itemView.context.resources, R.drawable.image))
+
+a generated icon created on bind: add the following to bind() in your adapter
+imageView.setImageBitmap(item.drawIcon())
+
+a generated icon but created on initialisation: add the following to bind() in your adapter
+imageView.setImageBitmap(item.icon)
+and ensure that you have this in your model:
+var icon: Bitmap? = drawIcon() // this needs to be null for the other scenarios!!
+
+For each experimental scenario (icon types and length of list), use the Profiler to explore the performance of the app. Record your results.
+
+Finally, reflect briefly on how performance could be improved by using concurrency, for example, when loading a large number of items into a list from a file. Note code is not required for this task.
